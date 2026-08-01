@@ -1,0 +1,4 @@
+../Core/Src/lis3dsh.c:15:6:accel_write	16	static
+../Core/Src/lis3dsh.c:27:6:accel_read	16	static
+../Core/Src/lis3dsh.c:39:6:accel_init	16	static
+../Core/Src/lis3dsh.c:45:13:accel_get_xyz	32	static
